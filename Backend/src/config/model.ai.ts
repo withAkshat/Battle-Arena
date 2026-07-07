@@ -18,4 +18,4 @@ const mistralModel = new ChatMistralAI({
     apiKey: config.mistralKey
 })
 
-export {geminiModel, cohereModel, mistralModel}
+export { geminiModel, cohereModel, mistralModel } 
